@@ -1,11 +1,11 @@
 {
   "users": {
-    "263716043248@s.whatsapp.net": {
-      "exp": 9,
+    "212609540435@s.whatsapp.net": {
+      "exp": 27,
       "limit": 2000000000,
       "lastclaim": 0,
       "registered": false,
-      "name": "Takunda",
+      "name": "A",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -15,12 +15,12 @@
       "role": "Beginner",
       "autolevelup": false
     },
-    "263718175794@s.whatsapp.net": {
-      "exp": 8,
+    "923474187615@s.whatsapp.net": {
+      "exp": 72,
       "limit": 2000000000,
       "lastclaim": 0,
       "registered": false,
-      "name": "Yuwiiiiiii",
+      "name": "Heart hacker❤‍🔥",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -30,27 +30,12 @@
       "role": "Beginner",
       "autolevelup": false
     },
-    "27693133100@s.whatsapp.net": {
-      "exp": 7,
+    "923411772306@s.whatsapp.net": {
+      "exp": 0,
       "limit": 2000000000,
       "lastclaim": 0,
       "registered": false,
-      "name": "😊🌹lady dee 🌹😊",
-      "age": -1,
-      "regTime": -1,
-      "afk": -1,
-      "afkReason": "",
-      "banned": false,
-      "level": 0,
-      "role": "Beginner",
-      "autolevelup": false
-    },
-    "263787357437@s.whatsapp.net": {
-      "exp": 1,
-      "limit": 2000000000,
-      "lastclaim": 0,
-      "registered": false,
-      "name": "Momo",
+      "name": "Sudo",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -62,7 +47,7 @@
     }
   },
   "chats": {
-    "status@broadcast": {
+    "212609540435@s.whatsapp.net": {
       "isBanned": false,
       "welcome": false,
       "detect": false,
@@ -74,9 +59,54 @@
       "antiLink": true,
       "simi": false,
       "viewonce": true
+    },
+    "120363039326647607@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": true,
+      "simi": false,
+      "viewonce": true,
+      "useDocument": true
     }
   },
-  "stats": {},
+  "stats": {
+    "qrcode.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1647379201060,
+      "lastSuccess": 0
+    },
+    "jadibot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647379211041,
+      "lastSuccess": 1647379211041
+    },
+    "enable.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647379240149,
+      "lastSuccess": 1647379240149
+    },
+    "menu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647379256278,
+      "lastSuccess": 1647379256278
+    },
+    "stopjadibot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647379267356,
+      "lastSuccess": 1647379267356
+    }
+  },
   "msgs": {},
   "sticker": {}
 }
